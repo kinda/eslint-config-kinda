@@ -1,8 +1,13 @@
 {
   "name": "eslint-config-kinda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration used by all KindaJS modules",
-  "keywords": ["eslint", "eslintconfig", "kinda", "KindaJS"],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "kinda",
+    "KindaJS"
+  ],
   "author": "Manuel Vila <mvila@3base.com>",
   "main": "index.js",
   "repository": "git://github.com/kinda/eslint-config-kinda",
