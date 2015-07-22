@@ -13,5 +13,5 @@
     "release-major": "npm run release --release-type=major",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
-  "license": "MIT",
+  "license": "MIT"
 }
