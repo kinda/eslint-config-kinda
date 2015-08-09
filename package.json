@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kinda",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "ESLint configuration used by all KindaJS modules",
   "keywords": [
     "eslint",
