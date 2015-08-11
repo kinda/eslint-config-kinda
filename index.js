@@ -69,7 +69,6 @@ module.exports = {
     'no-unused-expressions': [2],
     'no-unused-vars': [2],
     'no-var': [2],
-    'object-shorthand': [2],
     'operator-linebreak': [2],
     'quotes': [2, 'single'],
     'radix': [2],
